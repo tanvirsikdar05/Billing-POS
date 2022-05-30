@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#BB86FC</color>
+    <color name="purple_700">#BB86FC</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#47972A</color>
+    <color name="dark_white">#E6E4E4</color>
+    <color name="red">#F44336</color>
+    <color name="green_dark">#BB86FC</color>
+    <color name="ic_launcher_background">#f2b01b</color>
+    <color name="light_background_color">#C1C0C8</color>
+
+
+</resources>

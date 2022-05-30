@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    android:background="@drawable/listbg"
+    android:id="@+id/per_inv_ll"
+    android:layout_marginTop="8dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="INV#"
+        android:gravity="center"
+        android:layout_marginStart="10dp"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/inv_id"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="0551"
+        android:gravity="center"
+        android:layout_marginStart="5dp"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="right">
+        <TextView
+            android:id="@+id/inv_total"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="0551"
+            android:gravity="center"
+            android:layout_marginStart="5dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginEnd="10dp"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/rightarrowicon"
+            android:layout_marginEnd="8dp"/>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

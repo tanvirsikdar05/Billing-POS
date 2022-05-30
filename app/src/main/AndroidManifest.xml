@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kaiser.kaiserinvoice">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Kaiserinvoice">
+        <activity
+            android:name=".Login_"
+            android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".monthly_report"
+            android:exported="false" />
+        <activity
+            android:name=".root_report"
+            android:exported="false" />
+        <activity
+            android:name=".per_invoice_2"
+            android:exported="false" />
+        <activity
+            android:name=".all_report"
+            android:exported="false" />
+        <activity
+            android:name=".per_invoice"
+            android:exported="false" />
+        <activity
+            android:name=".print_activity"
+            android:exported="false" />
+        <activity
+            android:name=".card_activity"
+            android:exported="false" />
+        <activity
+            android:name=".salesmain_2"
+            android:exported="false" />
+        <activity
+            android:name=".sales_main"
+            android:exported="false" />
+        <activity
+            android:name=".shopdetailsactivity"
+            android:exported="false" />
+        <activity
+            android:name=".itemsetupactivity"
+            android:exported="false" />
+        <activity
+            android:name=".categroysetupactivity"
+            android:exported="false" />
+        <activity
+            android:name=".uomsetupactivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+
+</manifest>

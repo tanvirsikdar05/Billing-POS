@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="7">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="0dp"
+        android:layout_weight="2.3"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_bg"
+        android:gravity="center"
+        android:paddingStart="3dp"
+        android:paddingEnd="3dp"
+        android:text="pran chini gu  "
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tuom"
+        android:layout_width="0dp"
+        android:layout_weight="1.5"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_bg"
+        android:gravity="center"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:text="1.250kg"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:id="@+id/perp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_bg"
+        android:gravity="center"
+        android:paddingStart="3dp"
+        android:paddingEnd="3dp"
+        android:textStyle="bold"
+        android:text="80.00"
+        />
+
+
+    <TextView
+        android:id="@+id/dis"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_bg"
+        android:gravity="center"
+        android:paddingStart="3dp"
+        android:paddingEnd="3dp"
+        android:text="2.02"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tp"
+        android:layout_width="0dp"
+        android:layout_weight="1.2"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_bg"
+        android:gravity="center"
+        android:paddingStart="3dp"
+        android:paddingEnd="3dp"
+        android:textStyle="bold"
+        android:text="1252"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+
+</LinearLayout>
