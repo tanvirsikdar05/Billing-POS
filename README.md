@@ -1,0 +1,7 @@
+# Billing-POS![gigimg2](https://user-images.githubusercontent.com/35676901/170905432-eae21f42-c6cd-4546-b9e4-0554e4741e3e.png)
+![sc2](https://user-images.githubusercontent.com/35676901/170905445-8c7a38b0-81c9-48e7-bf90-2ff2a18d1205.png)
+![sc3](https://user-images.githubusercontent.com/35676901/170905459-8966b3a5-2d7b-4e78-97cb-9d0ca8ca56c6.png)
+![9](https://user-images.githubusercontent.com/35676901/170905475-9b540cf3-8bde-4255-b0a5-31e3d87e1e92.png)
+![11](https://user-images.githubusercontent.com/35676901/170905488-6c1cb789-c9aa-4485-a5b0-ba3b886d9e9e.png)
+![13](https://user-images.githubusercontent.com/35676901/170905500-22ae12f9-44e3-46a5-a921-ce5448ac31a4.png)
+![2](https://user-images.githubusercontent.com/35676901/170905512-9f4b2140-06a5-48b6-9d5f-0f3ff2fcea23.png)
